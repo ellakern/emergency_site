@@ -1,0 +1,69 @@
+:root {
+  /* Colours */
+  --color-bg: #ede3dd; /* page background /*
+
+  /* Header */
+  --color-head-bg: #827c36;
+
+  /* Logotype */
+  --color-logotype-bg: #ca9baa;
+  --color-text-logotype: #410016;
+  --font-logotype-size: 1rem;
+
+  /* Global menu */
+  --color-menu-bg: #410016;
+  /* Links */
+  --color-link-bg: #ca9baa; /* nærkontakt + inberet knapper*/
+  --color-link-hover: #fff; /* used - hover_ovenstående*/
+  --color-link-active: #90998f; /* used - klik_ovenstående */
+  --border-radius-links: 1px;
+
+  /* Headlines og rubrik */
+  --font-h1-size: 1rem;
+  --font-sub1-size: 1rem;
+  --font-h2-size: 1rem;
+  --font-h3-size: 1rem;
+  --color-headline-bg: #410016; /* underoverskifter */
+  --color-headline-text-page: #ede3dd; /* breakng tekst */
+
+  /* Tekst */
+  --color-text: #410016;
+  --color-text-inverted: #ede3dd;
+
+  /*  Marginer */
+  --margin-head-bottom: 5px;
+
+  /* Borders */
+  --border-radius: 5px;
+
+  /* Cards */
+  --color-card-bg: #a4b4be;
+  --color-cta-card-bg: #ca9baa;
+  /* news-cards */
+  --color-news-bg: #a4b5be;
+  --color-news-bg-inverted: #ca9baa;
+  --color-cta-newscard-bg: #787473;
+  --color-cta-newscard-bg-inverted: #7b7d83;
+
+  /* Fonts */
+  --font-family-sans: ui-sans-serif;
+  /* --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700; */
+
+  /* Text sizes */
+  --logotype-size: 1rem;
+  --headline1-size: 2rem;
+  --headline2-size: 1rem;
+  --headline3-size: 1rem;
+  --bodytext-size: 1rem;
+  --cta-text-size: 1rem;
+  --followup-text-size: 1rem;
+  --form-submit-size: 1rem;
+
+  /* Infographics */
+  --color-info-bg: #a4b4ba;
+  --color-infobox-1-bg: #ca9baa;
+  --color-infobox-2-bg: #ad8592;
+}
